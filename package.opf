@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="uid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">urn:uuid:c44522b9-2ec1-45fb-b9ca-3881bd86f69b</dc:identifier>
+    <dc:title>Psychologie der Massen</dc:title>
+    <dc:creator id="creator">Gustave Le bon</dc:creator>
+    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+    <dc:language>de</dc:language>
+    <dc:date>2020-01-23</dc:date>
+    <meta property="dcterms:created">1895</meta>
+    <dc:subject>Psychologie,Politik</dc:subject>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;p&gt;Das berühmte, in alle Weltsprachen übersetzte Buch des französischen Arztes und Soziologen über die Seele der Massen und die Gesetze ihrer Beeinflussung und Führung hat sich – trotz oder auch wegen mancher provozierender These – über Jahrzehnte hinweg und bis in die Gegenwart hinein als eine der stärksten Anregungen für Psychologie und Soziologie erwiesen.&lt;/p&gt;&lt;p&gt;Ebook von ~chaeremon&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher id="packager">~chaeremon</dc:publisher>
+    <meta property="role" refines="#packager" scheme="marc:relators">bkp</meta>
+    <meta name="cover" content="cover.jpg" />
+    <meta property="dcterms:modified">2021-01-23T00:00:00Z</meta>
+  </metadata>
+  <manifest>
+    <item id="cover.jpg" href="cover.jpg" media-type="image/jpeg" />
+    <item id="style.css" href="css/style.css" media-type="text/css" />
+    <item id="nav.css" href="css/nav.css" media-type="text/css" />
+    <item id="nav.xhtml" href="content/nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="content0.xhtml" href="content/content0.xhtml" media-type="application/xhtml+xml" />
+    <item id="content1.xhtml" href="content/content1.xhtml" media-type="application/xhtml+xml" />
+    <item id="footnotes.xhtml" href="content/footnotes.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine>
+    <itemref idref="nav.xhtml" linear="no" />
+    <itemref idref="content0.xhtml" />
+    <itemref idref="content1.xhtml" />
+    <itemref idref="footnotes.xhtml" />
+  </spine>
+</package>
