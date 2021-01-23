@@ -1,3 +1,5 @@
+## [Download everything](https://github.com/chaeremon/books/archive/master.zip)
+
 Currently available books:
 
 # Deutsch/German
