@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="uid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">urn:uuid:b952a93d-f0a6-438b-8e6a-8d8b8050d853</dc:identifier>
+    <dc:title>INDUSTRIAL SOCIETY AND ITS FUTURE</dc:title>
+    <meta property="dcterms:alternative">The Unabomber Manifesto</meta>
+    <dc:creator id="cre">Theodore John Kaczynski</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <dc:language>en</dc:language>
+    <dc:date>2020-12-25T00:00:00Z</dc:date>
+    <meta property="dcterms:created">1995</meta>
+    <dc:subject>Politics,Philosophy,Primitivism</dc:subject>
+    <dc:description>&lt;div&gt;&lt;p&gt;«The Industrial Revolution and its consequences have been a disaster for the human race.» – The famous introductory sentence to this work by Ted Kaczynski, at that time known as the Unabomber. This is his manifesto.&lt;/p&gt;&lt;p&gt;Original Comment: «This text was sent last June to The New York Times and The Washington Post by the person who calls himself "FC", identified by the FBI as the Unabomber, whom authorities have implicated in three murders and 16 bombings. The author threatened to send a bomb to an unspecified destination "with intent to kill" unless one of the newspapers published this manuscript. The Attorney General and the Director of the FBI recommended publication.»&lt;/p&gt;&lt;p&gt;Ebook version by ~chaeremon&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher id="packager">~chaeremon</dc:publisher>
+    <meta property="role" refines="#packager" scheme="marc:relators">bkp</meta>
+    <meta property="dcterms:source">https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html</meta>
+    <meta name="cover" content="cover.jpg" />
+    <meta property="dcterms:modified">2021-01-25T00:00:00Z</meta>
+  </metadata>
+  <manifest>
+    <item id="cover.jpg" href="cover.jpg" media-type="image/jpeg" />
+    <item id="nav.css" href="css/nav.css" media-type="text/css" />
+    <item id="style.css" href="css/style.css" media-type="text/css" />
+    <item id="nav.xhtml" href="content/nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="content0" href="content/content0.xhtml" media-type="application/xhtml+xml" />
+    <item id="content1" href="content/content1.xhtml" media-type="application/xhtml+xml" />
+    <item id="content2" href="content/content2.xhtml" media-type="application/xhtml+xml" />
+    <item id="content3" href="content/content3.xhtml" media-type="application/xhtml+xml" />
+    <item id="content4" href="content/content4.xhtml" media-type="application/xhtml+xml" />
+    <item id="content5" href="content/content5.xhtml" media-type="application/xhtml+xml" />
+    <item id="content6" href="content/content6.xhtml" media-type="application/xhtml+xml" />
+    <item id="content7" href="content/content7.xhtml" media-type="application/xhtml+xml" />
+    <item id="content8" href="content/content8.xhtml" media-type="application/xhtml+xml" />
+    <item id="content9" href="content/content9.xhtml" media-type="application/xhtml+xml" />
+    <item id="content10" href="content/content10.xhtml" media-type="application/xhtml+xml" />
+    <item id="content11" href="content/content11.xhtml" media-type="application/xhtml+xml" />
+    <item id="content12" href="content/content12.xhtml" media-type="application/xhtml+xml" />
+    <item id="content13" href="content/content13.xhtml" media-type="application/xhtml+xml" />
+    <item id="content14" href="content/content14.xhtml" media-type="application/xhtml+xml" />
+    <item id="content15" href="content/content15.xhtml" media-type="application/xhtml+xml" />
+    <item id="content16" href="content/content16.xhtml" media-type="application/xhtml+xml" />
+    <item id="content17" href="content/content17.xhtml" media-type="application/xhtml+xml" />
+    <item id="content18" href="content/content18.xhtml" media-type="application/xhtml+xml" />
+    <item id="content19" href="content/content19.xhtml" media-type="application/xhtml+xml" />
+    <item id="content20" href="content/content20.xhtml" media-type="application/xhtml+xml" />
+    <item id="content21" href="content/content21.xhtml" media-type="application/xhtml+xml" />
+    <item id="content22" href="content/content22.xhtml" media-type="application/xhtml+xml" />
+    <item id="content23" href="content/content23.xhtml" media-type="application/xhtml+xml" />
+    <item id="content24" href="content/content24.xhtml" media-type="application/xhtml+xml" />
+    <item id="content25" href="content/content25.xhtml" media-type="application/xhtml+xml" />
+    <item id="content26" href="content/content26.xhtml" media-type="application/xhtml+xml" />
+    <item id="footnotes" href="content/footnotes.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine>
+    <itemref idref="nav.xhtml" linear="no" />
+    <itemref idref="content0" />
+    <itemref idref="content1" />
+    <itemref idref="content2" />
+    <itemref idref="content3" />
+    <itemref idref="content4" />
+    <itemref idref="content5" />
+    <itemref idref="content6" />
+    <itemref idref="content7" />
+    <itemref idref="content8" />
+    <itemref idref="content9" />
+    <itemref idref="content10" />
+    <itemref idref="content11" />
+    <itemref idref="content12" />
+    <itemref idref="content13" />
+    <itemref idref="content14" />
+    <itemref idref="content15" />
+    <itemref idref="content16" />
+    <itemref idref="content17" />
+    <itemref idref="content18" />
+    <itemref idref="content19" />
+    <itemref idref="content20" />
+    <itemref idref="content21" />
+    <itemref idref="content22" />
+    <itemref idref="content23" />
+    <itemref idref="content24" />
+    <itemref idref="content25" />
+    <itemref idref="content26" />
+    <itemref idref="footnotes" />
+  </spine>
+</package>
