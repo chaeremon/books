@@ -3,7 +3,7 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="uid">urn:uuid:c44522b9-2ec1-45fb-b9ca-3881bd86f69b</dc:identifier>
     <dc:title>Psychologie der Massen</dc:title>
-    <dc:creator id="creator">Gustave Le bon</dc:creator>
+    <dc:creator id="creator">Gustave Le Bon</dc:creator>
     <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
     <dc:language>de</dc:language>
     <dc:date>2020-01-23</dc:date>
